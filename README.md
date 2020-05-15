@@ -1,2 +1,0 @@
-# yamil
-Project website
